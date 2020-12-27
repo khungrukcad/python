@@ -8,7 +8,7 @@ Have a look at the example project, adminish-example. The example project should
 ./recreate-database.sh
 ./serve.sh
 
-Here are the current requirements which should all be fetched from github (https://github.com/khungrukcad/iSH/<name>
+Here are the current requirements which should all be fetched from github (https://github.com/khungrukcad/ish/<name>
 Packages marked by a + are in pypi. Packages marked with a * are all you need to suck the rest in.
 
 
